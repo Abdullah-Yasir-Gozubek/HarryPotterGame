@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="game.SubmenuPanel">
+  <grid id="27dc6" binding="MiniMenuPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-12828863"/>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="de896" class="javax.swing.JButton" binding="howToPlayButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <background color="-12503745"/>
+          <foreground color="-1"/>
+          <text value="How to play"/>
+        </properties>
+      </component>
+      <component id="956db" class="javax.swing.JButton" binding="saveButton">
+        <constraints/>
+        <properties>
+          <background color="-12503745"/>
+          <foreground color="-1"/>
+          <text value="Save"/>
+        </properties>
+      </component>
+      <component id="e68a4" class="javax.swing.JButton" binding="settingsButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <background color="-12503745"/>
+          <foreground color="-1"/>
+          <text value="Music"/>
+        </properties>
+      </component>
+      <component id="f6cc4" class="javax.swing.JButton" binding="exitButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <background color="-12503745"/>
+          <foreground color="-1"/>
+          <text value="Exit"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

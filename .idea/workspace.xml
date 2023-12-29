@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e03f2c4-f88d-4268-8425-a8c952c5ae4d" name="Changes" comment="Implemented 4 different levels and gotonextlevel method. Also, added different sound track for each level, and different background images.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CityGame/game/BackpackItems/Broom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CityGame/game/BackpackItems/Broom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CityGame/game/BackpackItems/EnemyBomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CityGame/game/BackpackItems/EnemyBomb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CityGame/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CityGame/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CityGame/game/Players/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CityGame/game/Players/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CityGame/game/levels/Level1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CityGame/game/levels/Level1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/BackpackItems/EnemyBomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/BackpackItems/EnemyBomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Enemies/TrapBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Enemies/TrapBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Levels/Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Levels/Level1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Players/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Players/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Players/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Players/PlayerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LrnYQo1bscDsen50r8n5DqtITL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "258",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/agozu/OneDrive/Masaüstü/javaproject2023-Abdullah-Yasir-Gozubek-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="game" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data\Sound" />
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\src\game\Panels" />
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data" />
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data\Sound" />
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data\Backgrounds\Level2" />
+      <recent name="C:\Users\agozu\OneDrive\Masaüstü\IN1007\javaproject2023-Abdullah-Yasir-Gozubek\data\Buttons" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+      <recent name="game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
+      <module name="CityGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.Levels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolygonEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Others.PolygonEditor" />
+      <module name="CityGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.Levels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.PolygonEditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e03f2c4-f88d-4268-8425-a8c952c5ae4d" name="Changes" comment="" />
+      <created>1676638115300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676638115300</updated>
+      <workItem from="1676638116812" duration="442000" />
+      <workItem from="1676640525307" duration="669000" />
+      <workItem from="1676910904844" duration="195000" />
+      <workItem from="1676911917251" duration="611000" />
+      <workItem from="1677169877141" duration="3395000" />
+      <workItem from="1677173648189" duration="125000" />
+      <workItem from="1677174300665" duration="11003000" />
+      <workItem from="1677251317376" duration="5558000" />
+      <workItem from="1677354698647" duration="7904000" />
+      <workItem from="1677507231491" duration="2589000" />
+      <workItem from="1677510191062" duration="10700000" />
+      <workItem from="1677590791349" duration="14294000" />
+      <workItem from="1677627044279" duration="318000" />
+      <workItem from="1677669113934" duration="5231000" />
+      <workItem from="1677768070040" duration="6634000" />
+      <workItem from="1677776263605" duration="11707000" />
+      <workItem from="1677797763489" duration="8790000" />
+      <workItem from="1677807768383" duration="538000" />
+      <workItem from="1677846044937" duration="11566000" />
+      <workItem from="1677962968819" duration="7234000" />
+      <workItem from="1678148178672" duration="1445000" />
+      <workItem from="1678150069992" duration="795000" />
+      <workItem from="1678195767213" duration="13623000" />
+      <workItem from="1678227231284" duration="3615000" />
+      <workItem from="1678269034596" duration="4227000" />
+      <workItem from="1678311101843" duration="7755000" />
+      <workItem from="1678366420111" duration="17179000" />
+      <workItem from="1678404429020" duration="3196000" />
+      <workItem from="1678441839333" duration="143000" />
+      <workItem from="1678442153927" duration="933000" />
+      <workItem from="1678450139270" duration="1264000" />
+      <workItem from="1678451441518" duration="9000" />
+      <workItem from="1678454429439" duration="3489000" />
+      <workItem from="1678464376104" duration="169000" />
+      <workItem from="1678469894309" duration="1726000" />
+      <workItem from="1678476232607" duration="34000" />
+      <workItem from="1678579668894" duration="88000" />
+      <workItem from="1678580489564" duration="62000" />
+      <workItem from="1678784673424" duration="663000" />
+      <workItem from="1678787786256" duration="92000" />
+      <workItem from="1678887622294" duration="51000" />
+      <workItem from="1679063462967" duration="901000" />
+      <workItem from="1679065490618" duration="152000" />
+      <workItem from="1679066877929" duration="689000" />
+      <workItem from="1679070145010" duration="4534000" />
+      <workItem from="1679180674009" duration="35000" />
+      <workItem from="1679480681203" duration="51000" />
+      <workItem from="1680687866133" duration="41000" />
+      <workItem from="1681814585038" duration="2762000" />
+      <workItem from="1681833170204" duration="16420000" />
+      <workItem from="1681855766551" duration="241000" />
+      <workItem from="1681894044774" duration="24270000" />
+      <workItem from="1681980844825" duration="9451000" />
+      <workItem from="1682011116416" duration="1657000" />
+      <workItem from="1682018948292" duration="168000" />
+      <workItem from="1682028682166" duration="4051000" />
+      <workItem from="1682111034885" duration="1155000" />
+      <workItem from="1682199445388" duration="7575000" />
+      <workItem from="1682270720539" duration="9287000" />
+      <workItem from="1682873547615" duration="8895000" />
+      <workItem from="1682945827433" duration="17143000" />
+      <workItem from="1682976211643" duration="2176000" />
+      <workItem from="1683011367166" duration="8873000" />
+      <workItem from="1683061054758" duration="4810000" />
+      <workItem from="1683092375113" duration="13827000" />
+      <workItem from="1683139224282" duration="13302000" />
+      <workItem from="1683206080023" duration="29652000" />
+      <workItem from="1683243422714" duration="9571000" />
+      <workItem from="1683270121698" duration="24171000" />
+      <workItem from="1683303133157" duration="4202000" />
+      <workItem from="1683309239027" duration="1404000" />
+      <workItem from="1683310823762" duration="9622000" />
+      <workItem from="1683354928412" duration="1911000" />
+      <workItem from="1683397991587" duration="19695000" />
+      <workItem from="1683423952361" duration="19833000" />
+      <workItem from="1683446289270" duration="32000" />
+      <workItem from="1683446380154" duration="1277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented 4 different levels and gotonextlevel method. Also, added different sound track for each level, and different background images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented 4 different levels and gotonextlevel method. Also, added different sound track for each level, and different background images." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
